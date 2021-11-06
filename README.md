@@ -53,20 +53,13 @@ Black Friday marks the beginning of the Christmas shopping festival across the U
 
 5. Follow setup [instructions](Link to file)
 
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
-
 
 ## Contributing Members
 
-<!-- **Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)** -->
-
 #### Members:
 
-|Name     |  G-Mail ID   | 
-|---------|-----------------|
-|[Ashish Arora](ashisharora111122@gmail.com])| @Ashish Arora        |
-|[Bhupesh](bhupeshbhatt8222@gmail.com]) |     @Bhupesh Bhatt    |
-|[Divyanshu Bist](dbist411@gmail.com]) |     @Divyanshu Bist    |
+|Name           |  G-Mail ID   | 
+|---------------|-----------------|
+|Ashish Arora   | ashisharora111122@gmail.com
+|Bhupesh Bhatt  | bhupeshbhatt8222@gmail.com
+|Divyanshu Bist | dbist411@gmail.com
